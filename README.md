@@ -25,7 +25,7 @@ Sync up:
 
 Also add the local manifests:
 
-    git clone https://github.com/Gr2007/local_manifests -b master .repo/local_manifests
+    git clone https://github.com/DemoniacTeamDevs/local_manifests_hwY635 -b master .repo/local_manifests
 
 Sync up:
 
