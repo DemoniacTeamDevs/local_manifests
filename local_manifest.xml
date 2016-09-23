@@ -3,6 +3,7 @@
 
      <!-- Device Tree -->
       <project path="device/huawei/hwY635" name="Gr2007/android_device_huawei_hwY635" remote="github" revision="cm-12.1"/>
+       <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1"/>   
       <project path="packages/apps/Snap" name="CyanogenMod/android_packages_apps_Snap" remote="github" revision="cm-12.1"/>  
       
      <!-- kernel -->      
